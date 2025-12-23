@@ -3,6 +3,7 @@ import logo from './assets/img/logo.svg'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Features from './components/Features'
+import Testimonials from './components/Testimonials'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Navbar />
       <Hero />
       <Features />
+      <Testimonials />
     </div>
   )
 }
